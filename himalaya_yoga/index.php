@@ -1,5 +1,5 @@
 
-<?php include "header.php" ?>  
+<?php require_once "header.php" ?>  
 
 
         
@@ -45,6 +45,8 @@
 <div class="contaimer mx-auto my-auto py-2 bg-success">
   <p class="text-center my-auto text-white"><strong>New: </strong> PRATYAHARA & DHARANA PRACTICES for Relaxing & Calming The Mind From Stresses & Tensions</p>
 </div>
+
+
 
 
 
