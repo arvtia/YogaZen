@@ -17,9 +17,9 @@
 
 <header>
     <!--top header-fixed position starts here-->
-    <div class="top-header">
+<!--     <div class="top-header">
         <p>info@himalayayoga.net | +91- 7004851378 (India) | +001 4389 391 108 (Canada)</p>
-    </div>
+    </div> -->
     <!--top header-ends here-->
     <!--navbar content starts here-->
     <div class="navbar">
