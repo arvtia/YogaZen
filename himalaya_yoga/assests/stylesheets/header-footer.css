@@ -33,7 +33,7 @@ header{
 }
 /*----------navbar - position fixed - top 5%*/
 .navbar{
-    top: 4%;
+/*     top: 4%; */
     position: fixed;
     background-color: white;
     width: 100vw;
