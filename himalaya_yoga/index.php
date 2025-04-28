@@ -164,7 +164,7 @@
                 <img src="assests/images/photo-box-2-1.jpg" alt="photo-box" class="object-fit-cover img-fluid py-3">
               </div>
               <div class="position-absolute top-50 start-50 translate-middle text-center w-100">
-                <p class="text-white fs-6 m-0 w-75">Some types of alternative therapy have been well-researched by scientists, so doctors can safely recommend them to patients. Examples of this include yoga and meditation, as well as acupuncture.</p>
+                <p class="text-white fs-6 m-0 w-100">Some types of alternative therapy have been well-researched by scientists, so doctors can safely recommend them to patients. Examples of this include yoga and meditation, as well as acupuncture.</p>
                 <a href="natur_therapy.php"><button type="button" class="btn btn-warning px-4 rounded-pill">Learn more</button></a>
               </div>
             </div>
@@ -177,7 +177,7 @@
                 <img src="assests/images/photo-box-1-11.jpg" alt="photo-box" class="object-fit-cover img-fluid py-3">
               </div>
               <div class="position-absolute top-50 start-50 translate-middle text-center w-100">
-                <p class="text-white fs-6 w-75">Some types of alternative therapy have been well-researched by scientists, so doctors can safely recommend them to patients. Examples include yoga, meditation, and acupuncture.</p>
+                <p class="text-white fs-6 w-100">Some types of alternative therapy have been well-researched by scientists, so doctors can safely recommend them to patients. Examples include yoga, meditation, and acupuncture.</p>
                 <a href="alternative_therapy.php"><button type="button" class="btn btn-warning px-4 rounded-pill">Learn more</button></a>
               </div>
             </div>
